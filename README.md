@@ -53,3 +53,5 @@ We utilized SQL for deep-dive analysis of the dataset:
 ## Conclusion
 This project provided insights into various features of restaurants in the dataset. By cleaning and visualizing the data, we observed patterns related to restaurant ratings, the availability of online orders, and location-specific trends. These insights could help in making informed decisions about dining preferences.
 
+![Zomato Dashboard](https://github.com/VivekSawale/Zomato-Analysis/blob/main/dashboard.png)<img width="1290" height="658" alt="Screenshot 2026-07-18 201943" src="https://github.com/user-attachments/assets/211ac10c-6259-4b5e-bb73-f690fdaba728" />
+
