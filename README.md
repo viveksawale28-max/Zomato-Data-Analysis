@@ -52,3 +52,4 @@ We utilized SQL for deep-dive analysis of the dataset:
 
 ## Conclusion
 This project provided insights into various features of restaurants in the dataset. By cleaning and visualizing the data, we observed patterns related to restaurant ratings, the availability of online orders, and location-specific trends. These insights could help in making informed decisions about dining preferences.
+
